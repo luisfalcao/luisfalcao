@@ -1,16 +1,23 @@
-### Hi there 👋
+# Luis Falcão
 
-<!--
-**luisfalcao/luisfalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luisfalcao)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/luisfalcaofilho)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://blog.luisfalcao.com.br)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luisfalcao)
 
-Here are some ideas to get you started:
+## Hi! 👊🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at Oracle (https://www.oracle.com).
+
+
+- ✍🏻 You will find here a lot of Simple web applications, Containers and Automation.
+
+## 📥 How to reach me
+
+I love to share and trade experience and knowledge.
+
+-📚 23+ years in IT experience.
+- :octocat: many GitHub repositories. Search below!
+- 📓 Checkout my latest blog post on [Medium] (https://blog.luisfalcao.com.br) and [LinkedIn](https://www.linkedin.com/in/luisfalcao/recent-activity/posts).
+- ⚡️ Find all my social media on my [ - ] ().
+- 📩 Any help? Send me an [e-mail](mailto:luis.falcao@gmail.com).
