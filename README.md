@@ -7,7 +7,7 @@
 
 ## Hi! 👊🏻
 
-I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at ![Oracle](ttps://assets.stickpng.com/images/584817d6cef1014c0b5e4999.png "Oracle logo").
+I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at ![Oracle](/images/https://assets.stickpng.com/images/584817d6cef1014c0b5e4999.png "Oracle logo").
 
 
 - ✍🏻 You will find here a lot of Simple web applications, Containers and Automation.
