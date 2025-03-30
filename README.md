@@ -19,6 +19,6 @@ I love to share and trade experience and knowledge.
 
 - 📚 25+ years in IT experience.
 - :octocat: many GitHub repositories. Search below!
-- 📓 Checkout my latest blog post on [Medium] (https://blog.luisfalcao.com.br) and [LinkedIn](https://www.linkedin.com/in/luisfalcao/recent-activity/posts).
+- 📓 Checkout my latest blog post on https://blog.luisfalcao.com.br and [LinkedIn](https://www.linkedin.com/in/luisfalcao/recent-activity/posts).
 - ⚡️ Find all my social media on my [ - ] ().
 - 📩 Any help? Send me an [e-mail](mailto:luis.falcao@gmail.com).
