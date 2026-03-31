@@ -7,7 +7,7 @@
 
 ## Hi! 👊🏻
 
-I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at &nbsp; <img style="vertical-align:middle" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/768px-Oracle_logo.svg.png?20210811183004](https://miro.medium.com/v2/resize:fit:1204/0*v-nDHGyeWvO1vqJe)" width="50%" height="50%"/>.
+I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at &nbsp; <img style="vertical-align:middle" src="[https://miro.medium.com/v2/resize:fit:1204/0*v-nDHGyeWvO1vqJe]" width="50%" height="50%"/>.
 
 
 - ✍🏻 You will find here a lot of Simple web applications, Containers and Automation.
