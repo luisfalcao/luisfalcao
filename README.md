@@ -7,7 +7,10 @@
 
 ## Hi! 👊🏻
 
-I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at &nbsp; <img style="vertical-align:middle" src="[https://miro.medium.com/v2/resize:fit:1204/0*v-nDHGyeWvO1vqJe]" width="50%" height="50%"/>.
+I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" 
+     alt="Oracle Logo" 
+     width="120" 
+     style="vertical-align: middle;" />.
 
 
 - ✍🏻 You will find here a lot of Simple web applications, Containers and Automation.
@@ -17,7 +20,7 @@ I'm Luis Falcão (he/him) and I work as Cloud Solution Engineer at &nbsp; <img s
 
 I love to share and trade experience and knowledge.
 
-- 📚 25+ years in IT experience.
+- 📚 27+ years in IT experience.
 - :octocat: many GitHub repositories. Search below!
 - 📓 Checkout my latest blog post on https://blog.luisfalcao.com.br and [LinkedIn](https://www.linkedin.com/in/luisfalcao/recent-activity/posts).
 - ⚡️ Find all my social media on my [ - ] ().
